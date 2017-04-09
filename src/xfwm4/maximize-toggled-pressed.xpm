@@ -3,7 +3,7 @@ static char * maximize_toggled_prelight_xpm[] = {
 "24 26 4 1",
 " 	c None",
 ".	c #2d2d2d",
-"+	c #f0544c s active_color_1",
+"+	c #285577 s active_color_1",
 "@	c #484848",
 "@@@@@@@@@@@@@@@@@@@@@@@@",
 "........................",
